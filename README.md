@@ -1,4 +1,4 @@
-![]![cooltext429586095084563 (1)](https://user-images.githubusercontent.com/114132407/218569979-57842b60-bd4a-4f1c-b7b8-67f341682b2c.png)
+![cooltext429586095084563 (1)](https://user-images.githubusercontent.com/114132407/218569979-57842b60-bd4a-4f1c-b7b8-67f341682b2c.png)
 
 ### **Hola, soy Santos Zaid** 👋
 
