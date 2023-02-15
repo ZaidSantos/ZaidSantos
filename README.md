@@ -18,10 +18,9 @@
 | 11:05-11:55 | MRC            |                | MCR            |                 |                 |
 | 12:00-12:50 | MRC            |                | MCR            |                 | Comu. Virtuales |
 | 12:55-13:45 | Historia II    | Literatura II  | Literatura II  | Comu. Virtuales | Comu. Virtuales |
-| 13:50-14:40 | Biología II    | Biología II    | E. Física IV   | Biología II     | Literatura II   |
-| 14:45-15:35 | Física II      | Ingles IV      | Matemáticas IV | Historia II     | Matemáticas IV  |
-| 15:40-16:30 | Ingles IV      | Historia II    |                | Matemáticas IV  | Ingles IV       |
+| 13:50-14:40 | Biología II    | Biología II    | Biología II    | Biología II     | Literatura II   |
+| 14:45-15:35 | Física II      | Ingles IV      | E. Física IV   | Historia II     | Matemáticas IV  |
+| 15:40-16:30 | Ingles IV      | Historia II    | Matemáticas IV | Matemáticas IV  | Ingles IV       |
 | 16:30-17:00 | RECESO         | RECESO         | RECESO         | RECESO          | RECESO          |
 | 17:00-17:50 | Matemáticas IV | Física II      | Física II      | Física II       | Física II       |
 | 17:55-18:45 |                | Matemáticas IV |                | O. Educativa    |                 |
-
